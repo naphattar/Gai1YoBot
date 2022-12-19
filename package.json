@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "@discordjs/voice": "^0.14.0",
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "discordaudio": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "ytdl-core": "^4.11.2"
   }
 }
