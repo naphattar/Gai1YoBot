@@ -8,6 +8,10 @@ const commands = [
     name: 'guy',
     description: 'Yell to the legendary Guy2Yo',
   },
+  {
+    name: 'summon',
+    description: 'Summon Gai1YoBot into your channel',
+  }
   
 ];
 
